@@ -1,4 +1,4 @@
-# Capstone-Project---IMDB-Reviews-Analysis.
+# IMDB-Reviews-Analysis.
 
 Description:
 
